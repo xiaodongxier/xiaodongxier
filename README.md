@@ -7,9 +7,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaodongxier&theme=dark&show_icons=true" alt="" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier" alt="" align="right">
-
+<img src="https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true" alt="" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier&layout=compact" alt="" align="right">
 
 
 
@@ -57,3 +56,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
