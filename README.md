@@ -2,13 +2,15 @@
 
 <!-- <h3 align="center">关于我</h3>
 
-* 前端 -->
+* 💻 前端开发工程师
+*  Blog: https://xiaodongxier.com
+* Email: admin@xiaodongxier.com
+ -->
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true" alt="" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier&layout=compact" alt="" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true" alt="" align="left"  style="margin:0;padding:0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier&layout=compact" alt="" align="right"  style="margin:0;padding:0">
 
 
 
