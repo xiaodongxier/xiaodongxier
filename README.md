@@ -9,8 +9,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true" alt="" align="left"  style="margin:0;padding:0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier&layout=compact" alt="" align="right"  style="margin:0;padding:0">
+<img src="https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true" alt="" align="left"  width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier&layout=compact" alt="" align="right"  width="41%">
 
 
 
