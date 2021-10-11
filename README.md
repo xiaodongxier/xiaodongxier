@@ -9,9 +9,12 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true" alt="" align="left"  width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier&layout=compact" alt="" align="left"  width="41%">
+<div style="overflow: hidden !important;width: 100vw">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true" alt=""  width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier&layout=compact" alt=""  width="42%">
+</div>
 
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongxier&layout=compact) -->
 
 
 <!-- 
@@ -59,4 +62,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+#### 欢迎光临，您是第 <a href="http://xiaodongxier.com" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hexadkqc&nd=6&style=16" border="0" alt=""></a> 位访客。
