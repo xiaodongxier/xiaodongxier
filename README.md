@@ -10,7 +10,8 @@
 知我者谓我心忧，不知我者谓我何求
 </pre>
 
-<img align='right' src="https://xiaodongxier.com/favicon.ico" width="230">
+<!-- <img align='right' src="https://xiaodongxier.com/favicon.ico" width="230"> -->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 **About Me:**
 
