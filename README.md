@@ -40,6 +40,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 
+**About Me Web:**
+
+- [网络日志](https://xiaodongxier.com/)
+- [WIKI](https://wiki.wangyongjie.cn/)
+- [在线工具](https://tools.wangyongjie.cn/)
+
+
+
 **GitHub Stats:**
 
 ![maomao's github stats](https://github-readme-stats.vercel.app/api?username=xiaodongxier&show_icons=true&hide_title=true&count_private=true)
