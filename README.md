@@ -45,7 +45,7 @@
 - 网络日志: [https://wangyongjie.cn](https://xiaodongxier.com/)
 - WIKI: [https://wiki.wangyongjie.cn](https://wiki.wangyongjie.cn/)
 - 在线工具: [https://tools.wangyongjie.cn](https://tools.wangyongjie.cn/)
-- ChatGPT: [https://gpt.wangyongjie.cn](https://gpt.wangyongjie.cn/)
+- ChatGPT: [https://openai.wangyongjie.cn](https://openai.wangyongjie.cn/)
 
 
 
